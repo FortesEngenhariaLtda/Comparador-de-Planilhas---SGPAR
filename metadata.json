@@ -1,0 +1,6 @@
+{
+  "name": "Comparador de Planilhas",
+  "description": "Ferramenta para comparar planilhas mãe e filhas, identificando novos componentes com base na combinação das colunas B e H.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
